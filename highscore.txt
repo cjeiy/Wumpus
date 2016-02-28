@@ -1,0 +1,27 @@
+       C-J  1  3   Easy 1360
+     CALLE  2  3   Easy 20
+   qwerty5  1  3   Easy 1360
+     yay    0  3   Easy 1400
+      Cs-J  1  3   Easy 360
+     CALLE  2  3   Easy 1220
+   qwerty5  1  3   Easy 1160
+     yayay  0  3   Easy 1000
+       C-J  1  3   Easy 960
+     CALLE  2  3   Easy 820
+   qwerty5  1  3   Easy 760
+     yayay  0  3   Easy 600
+
+WumpMastaH  0  3 Expert 2400
+    WumpHa  7  5 Expert 2720
+      adas  5  5 Normal 2300
+       qwe  8  5   Easy 1680
+    grafik  0  5 Expert 3000
+    grafik  0  5 Expert 3000
+    testas  0  3 Expert 2400
+   TestarN  0  5 Expert 3000
+   RestarN  0  4 Expert 2700
+     CjeyZ  0  3 Expert 2400
+     WumpH  1  3 Expert 2360
+    Hejja1  1  0 Normal  960
+       asd  1  4   Easy 1660
+      sadf  2  3   Easy 1320
